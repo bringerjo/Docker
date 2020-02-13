@@ -1,0 +1,19 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    background-color: #767799;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main_form {
+    width: 100%;
+}
+
+.form_line {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
